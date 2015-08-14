@@ -28,6 +28,8 @@
     <string name="marked_by_others">%d people marked it as</string>
     <string name="dlg_black_antispam_message">להוסיף את המספר הזה לרשימה השחורה?</string>
     <string name="dlg_white_antispam_message">להוסיף את המספר הזה לחריגים?</string>
+	<string name="email">אימייל</string>
+    <string name="empty_activity_title">" "</string>
     <string name="dlg_black_address_antispam_message">להוסיף מיקום זה לרשימה השחורה?</string>
     <string name="dlg_white_address_antispam_message">להוסיף מיקום זה לחריגים?</string>
     <string name="dlg_white_antispam_hint">חריגים</string>
@@ -44,7 +46,7 @@
     <string name="dlg_add_blacklist_warn_conflict_title">זהירות</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$sand %2$sother contacts are already on your exceptions list.</string>
     <string name="dlg_remove_blacklist">להסיר את המספר הזה מהרשימה השחורה?</string>
-    <string name="dlg_remove_whitelist">הסרת מספרים אלה מהחריגים?</string>
+    <string name="dlg_remove_whitelist_content">הסרת מספרים אלו מהחריגים?</string>
     <string name="dlg_remove_address_blacklist">הסר את המיקום מהרשימה השחורה והחזר אותו להודעות הרגילות?</string>
     <string name="dlg_remove_address_whitelist">הסרת מיקום זה מחריגים?</string>
     <string name="dlg_remove_blacklist_ok">הסר</string>
@@ -57,6 +59,7 @@
     <string name="dlg_remove_blacklist_ing">מוחק מהרשימה השחורה…</string>
     <string name="dlg_import_whitelist">ייבוא לרשימת המותרים</string>
     <string name="dlg_remove_whitelist_ing">מוחק מהחריגים…</string>
+	<string name="dlg_remove_whitelist_title">הסר</string>
     <string name="dlg_add_keyword">הוסף מילות מפתח</string>
     <string name="dlg_edit_keyword">ערוך מילת מפתח</string>
     <string name="dlg_delete_keyword">להסיר את מילות המפתח הנבחרות?</string>
@@ -124,7 +127,7 @@
     <string name="addwhitelist">להוסיף לחריגים</string>
     <string name="st_hint_add_phonenumber">הזן את מספר הטלפון</string>
     <string name="st_hint_add_head_number">הזן קידומת (* תתווסף באופן אוטומטי)</string>
-    <string name="st_message_SMSpass">אפשר הודעות</string>
+    <string name="st_message_SMSpass">אפשר סמס</string>
     <string name="st_message_phonepass">אפשר שיחות</string>
     <string name="SMSpass">אפשר הודעות</string>
     <string name="Phonepass">אפשר שיחות</string>
@@ -161,6 +164,7 @@
     <string name="st_antispam_black_adress_add">בחר מיקום</string>
     <string name="st_antispam_bw_choose_modes">מספרים חסומים</string>
     <string name="hint_antispam_mode_edit">מצב מתקדם</string>
+	<string name="im">IM</string>
     <string name="st_title_adress">בחר מיקום</string>
     <string name="st_title_adress_num">%d selected</string>
     <string name="NACaddnumcontent">הזן את מספר הטלפון</string>
@@ -198,6 +202,7 @@
     <string name="ad_install_monitor_hint">בדוק אם יש תוכנת פרסום בעת התקנת אפליקציות</string>
     <string name="ad_update_setting">עדכון</string>
     <string name="ad_update_title">עדכן באופן אוטומטי</string>
+	<string name="address">כתובות</string>
     <string name="ad_update_time">עדכון אחרון: %s</string>
     <string name="ad_update_time_unKnown">עדכון אחרון: לא ידוע</string>
     <string name="ad_block_hint">%d blocked</string>
@@ -266,6 +271,7 @@
     <string name="info_unantispam_phone_sms">אפשר הודעות ושיחות</string>
     <string name="st_antispam_delete">מחק</string>
     <string name="baidu_thanks">מופעל על ידי Baidu</string>
+	<string name="birthday">יום הולדת</string>
     <string name="info_antispam_current_mode">%s</string>
     <string name="note_list_none">ריק</string>
     <string name="note_sms_none">ריק</string>
@@ -288,7 +294,7 @@
     <string name="mark_banking_insurance_block">Reported as insurance sales</string>
     <string name="mark_number_info">"
 Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
-    <string name="dlg_title_not_open_stranger_identify">Identify unknown numbers</string>
+    <string name="dlg_title_not_open_stranger_identify">זיהוי זרים</string>
     <string name="dlg_message_not_open_stranger_identify">To turn this feature on, go to Settings > Phone.</string>
     <string name="button_to_setting">Settings</string>
     <string name="button_text_delete">Delete</string>
