@@ -18,10 +18,10 @@
     <string name="backup_finished">גיבוי הושלם</string>
     <string name="backup_report">דוח גיבוי</string>
     <string name="backup_hint">אין לכבות את המכשיר בזמן הגיבוי. זה יגרום לשגיאת נתונים</string>
-    <string name="menu_patch_delete">מחק גיבויים</string>
     <string name="delete">מחק</string>
     <string name="cancel">בטל</string>
     <string name="delete_backup_process">...מוחק גיבויים</string>
+	<string name="delete_backup_title">מחק גיבוי</string>
     <string name="backup_error">שגיאה בגיבוי</string>
     <string name="delete_failed_backup_confirm">נכשל במחיקה, גיבוי בהליכים</string>
     <string name="batch_delete_backup_confirm">גיבוי זה יימחק, האם להמשיך?</string>
