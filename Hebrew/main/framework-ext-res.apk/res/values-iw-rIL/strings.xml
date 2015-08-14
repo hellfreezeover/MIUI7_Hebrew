@@ -29,4 +29,9 @@
     <string name="status_bar_toggle_sync_auto">סינכרון</string>
     <string name="status_bar_toggle_sync_manual">סינכרון</string>
     <string name="status_bar_toggle_syncing">מסנכרן</string>
+    <string name="paste">הדבק</string>
+    <string name="select">בחר</string>
+    <string name="select_all">בחר הכל</string>
+    <string name="copy">העתק</string>
+    <string name="cut">גזור</string>
 </resources>

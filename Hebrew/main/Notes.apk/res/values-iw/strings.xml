@@ -26,7 +26,7 @@
     <string name="menu_move">העבר לתיקיה</string>
     <string name="menu_stick">נעץ</string>
     <string name="menu_unstick">בטל נעיצה</string>
-    <string name="folder_exist">התיקיה %1$s קיימת,החלף שם</string>
+    <string name="folder_exist">תיקיה באותו שם כבר קיימת</string>
     <string name="menu_send_to_desktop">צור קיצור דרך</string>
     <string name="menu_title_select_folder">בחר תיקיה</string>
     <string name="menu_move_parent_folder">תקיה ראשית</string>
@@ -35,11 +35,7 @@
     <string name="menu_send_weibo">לשלוח ל- Weibo</string>
     <string name="menu_send_wechat">לשלוח ל- WeChat</string>
     <string name="info_note_enter_desktop">פתק נוסף למסך הבית</string>
-    <string name="alert_message_delete_notes">מאשר למחוק את %d ?</string>
-    <string name="alert_message_delete_folders">למחוק את ה %1$s תיקיות שנבחרו?</string>
-    <string name="alert_message_delete_folders_notes">מחק את ה %1$s תיקיות שנבחרו וה %2$s פתקים?</string>
     <string name="alert_message_delete_note">בטוח למחוק?</string>
-    <string name="format_move_notes_to_folder">העביר %1$d פתקים %2$s לתיקיה</string>
     <string name="format_move_notes_out_folder">Moved %1$s out</string>
     <string name="alert_title_edit_anyway">אישור עריכת הפתק, זה עלול לגרום לאובדן נתונים, אתה בטוח?</string>
     <string name="alert_message_edit_anyway">הפתק מכיל תוכן שאינו נתמך, עריכתו עלולה לגרום לאובדן נתונים.</string>
@@ -67,7 +63,7 @@
     <string name="notify_alarm_title">תזכורת שעון מעורר</string>
     <string name="alarm_bar_title">תזכורת</string>
     <string name="toast_message_add_image_fail">לא ניתן להכניס תמונה!</string>
-    <string name="toast_message_add_text_warn">"This type of file isn't supported"</string>
+    <string name="toast_message_add_text_warn">"סוג קובץ לא נתמך"</string>
     <string name="toast_folder_privacy_mode">"Can't edit folder in guard mode"</string>
     <string name="toast_note_privacy_mode">"Can't create note in Guest mode"</string>
     <string name="toast_reach_text_limit_truncate">תוכן הפתק כבר קוצץ מפני שהוא יותר מדי ארוך.</string>
@@ -106,4 +102,5 @@
     <string name="sns_choose_quality_title">Choose image quality</string>
     <string name="sns_choose_quality_high">High (%1$s)</string>
     <string name="sns_choose_quality_low">Low</string>
+    <string name="alert_message_delete_notes">Delete (%1$s)?</string>
 </resources>

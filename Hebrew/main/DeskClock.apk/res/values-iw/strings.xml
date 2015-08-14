@@ -31,7 +31,7 @@
     <string name="timer_got_it">הבנתי</string>
     <string name="timer_start_alarm">סיום הטיימר</string>
     <string name="dialog_confirm_abort">האם לבטל את השינויים?</string>
-    <string name="confirm_abort">ביטול</string>
+    <string name="confirm_abort">כן</string>
     <string name="remind_ringtone">צליל התראה</string>
     <string name="keep_screen_on">השאר מסך דלוק</string>
     <string name="vibrate_when_ringing">רטט כאשר מצלצל</string>

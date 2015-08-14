@@ -1,0 +1,56 @@
+<resources>
+    <string name="dialog_insufficient_space_on_external">"אין מספיק מקום באחסון חיצוני"</string>
+    <string name="dialog_insufficient_space_on_cache">"אין מספיק מקום באחסון פנימי"</string>
+    <string name="auto_restart_under_wifi">"WIFI יוריד את הקובץ הזה באופן אוטומטי "</string>
+    <string name="task_already_exist">"משימה כבר קיימת"</string>
+    <string name="privacy_tip_title">"השתמש בXunlei Accelerator?"</string>
+    <string name="privacy_tip_content">"השתמש Xunlei Accelerator להאיץ הורדות? כתובת האתר של המארח של ההורדה שהועלתה לשרתים של Xunlei. פרטי Mi החשבון שלך יהיו גם נטענים כדי לבדוק אם יש לך מנויים פעילים לשירות זה."</string>
+    <string name="privacy_tip_cancel">"בטל"</string>
+    <string name="privacy_tip_ok">"אישור"</string>
+    <string name="privacy_notif_title">"מאיץ הורדת Xunlei פעיל"</string>
+    <string name="privacy_notif_content">"גע כדי להציג פרטים."</string>
+    <string name="notif_text_engine_on">"מאיץ ..."</string>
+    <string name="notif_text_engine_off">"מאיץ Xunlei כבוי."</string>
+    <string name="notif_title_multiple_downloading">מוריד %1$d קבצים</string>
+    <string name="notif_title_file_size">%1$d סך הכל</string>
+    <string name="paused_waiting_for_network">"מחכה לרשת"</string>
+    <string name="warning_tip_title">"אזהרת שימוש בנתונים"</string>
+    <string name="warning_tip_content">"אתה כבר לא מחובר לרשת אלחוטית. שימוש בחיבור הנתונים הנייד שלך כדי להשלים הורדה זו תגדיל את השימוש בנתונים שלך. אם אתה הולך מעבר לגבול הנתונים של התכנית שלך, הספק שלך יכול לחייב אותך בתשלום נוסף."</string>
+    <string name="warning_tip_cancel">"הורדה"</string>
+    <string name="warning_tip_ok">"השהה"</string>
+    <string name="dialog_not_show_again">"אל תציג שוב"</string>
+    <string name="app_label">"מנהל הורדות"</string>
+    <string name="permlab_downloadManager">" גישה.למנהל הורדות"</string>
+    <string name="permdesc_downloadManager">"מאפשר ליישום לגשת למנהל ההורדות ולהשתמש בו כדי להוריד קבצים. יישומים זדוניים יכולים להשתמש בזה כדי לשבש הורדות ולגשת למידע פרטי."</string>
+    <string name="permlab_downloadManagerAdvanced">"פונקציות מתקדמות של מנהל הורדות."</string>
+    <string name="permdesc_downloadManagerAdvanced">"מאפשר ליישום לגשת לפונקציות המתקדמות של מנהל ההורדות. יישומים זדוניים יכולים להשתמש בזה כדי לשבש הורדות ולגשת למידע פרטי."</string>
+    <string name="permlab_downloadCompletedIntent">"שלח התרעות הורדה."</string>
+    <string name="permdesc_downloadCompletedIntent">"מאפשר ליישום לשלוח התראות לגבי הורדות שהסתיימו. יישומים זדוניים יכולים להשתמש בזה כדי לבלבל יישומים אחרים המוריד קבצים."</string>
+    <string name="permlab_seeAllExternal">"ראה את כל ההורדות לכרטיס SD"</string>
+    <string name="permdesc_seeAllExternal">"מאפשר ליישום לראות את כל ההורדות לכרטיס SD, ללא קשר ליישום שהוריד אותם."</string>
+    <string name="permlab_downloadCacheNonPurgeable">"שמור מקום בתוך המטמון הורדה"</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"מאפשר ליישום להוריד קבצים למטמון הורדה, שלא ניתן למחוק באופן אוטומטי כאשר מנהל ההורדות צריך יותר מקום."</string>
+    <string name="permlab_downloadWithoutNotification">"להוריד קבצים ללא התראה"</string>
+    <string name="permdesc_downloadWithoutNotification">"מאפשר ליישום להוריד קבצים דרך מנהל ההורדות מבלי להציג התראות כלשהן למשתמש."</string>
+    <string name="permlab_accessAllDownloads">"גישה לכל הורדות המערכת"</string>
+    <string name="permdesc_accessAllDownloads">"מאפשר ליישום להציג ולשנות את כל ההורדות שהופעלו על ידי יישום כלשהו במערכת."</string>
+    <string name="download_unknown_title">&lt;ללא שם></string>
+    <string name="notification_download_complete">"הורדה הושלמה"</string>
+    <string name="notification_download_failed">"הורדה נכשלה."</string>
+    <string name="notification_need_wifi_for_size">"גודל הורדה דורש WIFI."</string>
+    <string name="notification_paused_in_background">"עצר ברקע."</string>
+    <string name="wifi_required_title">"הורדה גדולה מדי לרשת מפעיל"</string>
+    <string formatted="false" name="wifi_required_body">"עליך להשתמש ברשת WIFI כדי להשלים %s הורדה. %s גע כדי להתחיל הורדה זו בפעם הבאה שאתה מחובר לרשת WIFI."</string>
+    <string name="wifi_recommended_title">"תור להורדה מאוחר יותר?"</string>
+    <string formatted="false" name="wifi_recommended_body">"התחלת %s הורדה עכשיו עלולה לגרום לשימוש מופרז בחיבור הנתונים הנייד שלך, מה שעלול להוביל לחיובים על ידי המפעיל הסלולרי שלך בהתאם לתכנית הנתונים שלך. %s כדי להתחיל הורדה זו בפעם הבאה שאתה מחובר לרשת WLAN."</string>
+    <string name="button_queue_for_wifi">"תור"</string>
+    <string name="button_cancel_download">"בטל"</string>
+    <string name="button_start_now">"התחל עכשיו"</string>
+    <string name="download_remaining">%s נותר</string>
+    <string name="download_no_application_title">"לא יכול לפתוח את הקובץ"</string>
+    <string name="root_downloads">"הורדות"</string>
+    <string name="download_queued">"בתור"</string>
+    <string name="download_running">"בתהליך"</string>
+    <string name="download_error">"לא הצליח"</string>
+    <string name="download_running_percent">In progress, %d%%</string>
+</resources>
