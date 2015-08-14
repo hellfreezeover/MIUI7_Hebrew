@@ -86,7 +86,7 @@
     <string name="systemui">גוון הודעה</string>
     <string name="hot_problem_empty">ריק</string>
     <string name="common_problem_empty">Empty</string>
-    <string name="button_feedback">Other</string>
+    <string name="button_feedback">צור</string>
     <string name="button_plus">+1</string>
     <string name="problem_title">Description</string>
     <string name="problem_detail">Cause</string>
