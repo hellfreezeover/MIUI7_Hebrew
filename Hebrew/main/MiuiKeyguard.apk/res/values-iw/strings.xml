@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">מחק</string>
+    <string name="unlockscreen_recharging_message">טוען %d%%</string>
+    <string name="unlockscreen_recharge_completed">סוללה מלאה</string>
+    <string name="unlockscreen_low_battery">חבר מטען</string>
+    <string name="lockscreen_charging_msg">בטעינה</string>
+    <string name="emergency_call_string">שיחות חירום</string>
+    <string name="forget_password_string">שכחתי סיסמה</string>
+    <string name="input_puk_code">הכנס PUK</string>
+    <string name="unlocking_sim_card">פותח נעילת סים</string>
+    <string name="input_pin_code">הכנס PIN CODE</string>
+    <string name="incorrect_pukcode_remaining_attempts">ה- PUK שהזנת שגוי, נותרו %d נסיונות</string>
+    <string name="incorrect_pincode_remaining_attempts">ה- PIN CODE שהזנת שגוי, נותרו %d נסיונות</string>
+    <string name="incorrect_pukcode">PUK שגוי</string>
+    <string name="incorrect_pincode">PIN CODE שגוי</string>
+    <string name="open_wifi_settings">פתח הגדרות חיבור לאינטרנט</string>
+    <string name="lock_screen_date">dd/MM E</string>
+    <string name="lockscreen_glogin_password_hint">סיסמא</string>
+    <string name="lockscreen_glogin_checking_password">בודק...</string>
+    <string name="login_website_in_case_forget_password">כדי לאפס את סיסמתך, היכנס לכתובת i.mi.com</string>
+    <string name="experimental_validate_thanks">תודה!</string>
+    <string name="experimental_validate_warning">תודה שאתה עוזר לשפר את MIUI!</string>
+    <string name="experimental_validate">אימות</string>
+    <string name="experimental_try_string">ניסיון</string>
+    <string name="experimental_validate_username">שם משתמש</string>
+    <string name="experimental_validate_password">סיסמא</string>
+    <string name="experimental_validate_progress">נכנס...</string>
+    <string name="experimental_validate_fail">"Couldn't sign in"</string>
+    <string name="lockscreen_glogin_invalid_input">שם משתמש או סיסמא שגויים.</string>
+    <string name="find_device_turn_off_flight_mode">כבה מצב טיסה</string>
+    <string name="phone_locked_string">מכשירך ננעל</string>
+    <string name="phone_locked_timeout_seconds_string">נסה שוב בעוד %s שניות</string>
+    <string name="phone_locked_timeout_minutes_string">נסה שוב בעוד %s דקות</string>
+    <string name="input_password_hint_text">הכנס סיסמה</string>
+    <string name="unlock_sim_string">פתח נעילת סים</string>
+    <string name="lockscreen_glogin_submit_button">התחבר</string>
+    <string name="lockscreen_access_pattern_start">הוכנסה תבנית</string>
+    <string name="lockscreen_access_pattern_cleared">תבנית נוקתה</string>
+    <string name="lockscreen_access_pattern_cell_added">נוסף תא</string>
+    <string name="lockscreen_access_pattern_detected">תבנית הושלמה</string>
+    <string name="default_lockscreen_unlock_hint_text">החלק מעלה לשחרור הנעילה</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly entered your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your account signin.
+
+ Try again in %d seconds."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">"הנעילה בוטלה עי התקן בלוטות'"</string>
+    <string name="missed_call_text">%d missed calls</string>
+    <string name="wrong_password">סיסמה שגויה</string>
+    <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
+    <string name="confirm_pin_msg">Enter PIN again</string>
+    <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
+    <string name="unlock_string">Unlock</string>
+    <string name="open_camera_hint_text">Swipe left to open Camera</string>
+    <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
+    <string name="click_to_enter_text">Tap to view</string>
+</resources>

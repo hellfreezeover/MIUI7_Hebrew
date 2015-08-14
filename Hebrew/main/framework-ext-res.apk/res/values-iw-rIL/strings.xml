@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_toggle_ac">מסך נעילה</string>
+    <string name="status_bar_toggle_bluetooth">"בלוטות'"</string>
+    <string name="status_bar_toggle_brightness">בהירות</string>
+    <string name="status_bar_toggle_auto_brightness">בהירות</string>
+    <string name="status_bar_toggle_data">תקשורת נתונים</string>
+    <string name="status_bar_toggle_divider">עוד</string>
+    <string name="status_bar_toggle_flight_mode">מצב טיסה</string>
+    <string name="status_bar_toggle_gps">GPS</string>
+    <string name="status_bar_toggle_lock">נעילה</string>
+    <string name="status_bar_toggle_mute">שקט</string>
+    <string name="status_bar_toggle_network_type">רשת</string>
+    <string name="status_bar_toggle_privacy_mode">אורח</string>
+    <string name="status_bar_toggle_reboot">אתחול</string>
+    <string name="status_bar_toggle_rotate">סיבוב</string>
+    <string name="status_bar_toggle_screen_button">נטרל</string>
+    <string name="status_bar_toggle_screenshot">לכידת מסך</string>
+    <string name="status_bar_toggle_shutdown">כיבוי</string>
+    <string name="status_bar_toggle_sync">סינכרון</string>
+    <string name="status_bar_toggle_torch">פנס</string>
+    <string name="status_bar_toggle_vibrate">רטט</string>
+    <string name="status_bar_toggle_wifi">WLAN</string>
+    <string name="status_bar_toggle_power_mode">ביצועים</string>
+    <string name="status_bar_toggle_drive_mode">נהיגה</string>
+    <string name="status_bar_toggle_wifi_ap">נקודה חמה</string>
+    <string name="status_bar_toggle_quiet_mode">לא להפריע</string>
+    <string name="status_bar_toggle_paper_mode">מצב קריאה</string>
+    <string name="status_bar_toggle_sync_auto">סינכרון</string>
+    <string name="status_bar_toggle_sync_manual">סינכרון</string>
+    <string name="status_bar_toggle_syncing">מסנכרן</string>
+</resources>

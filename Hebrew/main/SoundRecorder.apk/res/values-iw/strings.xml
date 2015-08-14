@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">טייפ מנהלים</string>
+    <string name="recording">מקליט</string>
+    <string name="recording_stopped">הקלטה הופסקה</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="error_sdcard_access">לא מצליח לגשת לכרטיס זיכרון</string>
+    <string name="error_app_internal">אירעה שגיאה פנימית</string>
+    <string name="error_app_internal_title">שגיאת רשמקול</string>
+    <string name="error_file_access">"File doesn't exist or has been corrupted"</string>
+    <string name="delete_dialog_message">האם אתה בטוח שברצונך למחוק את ההקלטה הנוכחית?</string>
+    <string name="notification_recording">מקליט...</string>
+    <string name="notification_recording_ticker">טלפון מושתק, מקליט...</string>
+    <string name="notification_playback">מנגן הקלטה…</string>
+    <string name="notification_stopped">הקלטה הופסקה</string>
+    <string name="notification_warning">אחסון נמוך, נשארו לך פחות מ-%d דקות הקלטה</string>
+    <string name="record_list">רשימת הקלטות</string>
+    <string name="record_list_fm">הקלטות FM</string>
+    <string name="record_list_call">הקלטות שיחה</string>
+    <string name="record_list_cloud">הקלטות בענן</string>
+    <string name="record_list_cloud_fm">הקלטות FM בענן</string>
+    <string name="record_list_cloud_call">הקלטות שיחה בענן</string>
+    <string name="call_record">הקלט שיחה</string>
+    <string name="fm_record">הקלטת FM רדיו(%d)</string>
+    <string name="cloud_record">Recording in cloud(%d)</string>
+    <string name="no_file">אין הקלטה</string>
+    <string name="alert_message_delete_record">האם למחק הקלטה זו?</string>
+    <string name="rename">שנה שם</string>
+    <string name="delete">מחק</string>
+    <string name="deleting_message">מוחק...</string>
+    <string name="rename_dialog_title">שינוי השם להקלטה זו</string>
+    <string name="rename_duplicate">שם ההקלטה קיים, אנא הזן מחדש:</string>
+    <string name="dialog_title_storage_full">זכרון מלא</string>
+    <string name="dialog_content_storage_full">בשל חוסר מקום באחסון, ההקלטה נאלצה להעצר. הסר קבצים מיותרים דרך סייר הקבצים, תרצה לפתוח את הסייר עכשיו?</string>
+    <string name="status_bar_recording">מקליט...</string>
+    <string name="status_bar_back">לחץ כדי לחזור להקלטה</string>
+    <string name="status_bar_recording_pause">"ההקלטה הושהתה "</string>
+    <string name="low_battery_error">בסוללה נשאר פחות מ-5% , כדי להבטיח כי ההקלטה לא תאבד, ההקלטה הופסקה ונישמרה.</string>
+    <string name="record_name_hour">.</string>
+    <string name="sound_recorder_settings">הגדרות הקלטה</string>
+    <string name="preference_led_indicator">מחוון הקלטה כאשר המסך נעול</string>
+    <string name="preference_led_indicator_prompt">הצג LED ומצב לוח מחוונים בהקלטה כאשר המסך נעול</string>
+    <string name="preference_record_type_title">סוג הקלטה</string>
+    <string name="preference_scenes">הגדרות עבור סצינות</string>
+    <string name="preference_record_type_dialog_title">בחר סוג הקלטה</string>
+    <string name="preference_record_scenes_dialog_title">בחר קטע ההקלטה</string>
+    <string name="preference_silent_mode">השתק צילצול בזמן הקלטה</string>
+    <string name="preference_enable_earpiece_title">השתמש במקלט לניגון אודיו</string>
+    <string name="preference_enable_earpiece_summary">השתמש במקלט עבור השמעה חיצונית</string>
+    <string name="error_filename_too_long">שם הקובץ ארוך מדיי</string>
+    <string name="error_filename_illegal_char">שם הקובץ מכיל תווים לא חוקיים.</string>
+    <string name="duration_format_hour">%sh</string>
+    <string name="duration_format_minute">%sm</string>
+    <string name="duration_format_second">%ss</string>
+    <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
+    <string name="message_file_size_error">ההקלטה הגיעה לאורך ההקלטה המירבי הנתמך עבור %s</string>
+    <string name="pause">השהה</string>
+    <string name="back">חזור</string>
+    <string name="toast_uninstall_fileexplorer">FileExplorer is not installed!</string>
+    <string name="record_download">הורד הקלטה מ Mi Cloud</string>
+    <string name="record_download_msg">ניגון הקלטות יתאפשר לאחר שההורדה הושלמה.</string>
+    <string name="record_download_msg_reload">"This recording doesn't exist"</string>
+    <string name="record_download_complete">הושלם</string>
+    <string name="record_download_paused">מושהה</string>
+    <string name="record_download_failed">נכשל</string>
+    <string name="record_download_progress">%d%%</string>
+    <string name="record_download_pending">ממתין</string>
+    <string name="record_download_activity">מוריד הקלטות</string>
+    <string name="retry">נסה שנית</string>
+    <string name="start">המשך</string>
+    <string name="record_downloading_notification">מוריד...</string>
+    <string name="record_downloading_notification_count">%d downloading</string>
+    <string name="record_downloading_notification_complete">ההורדה הושלמה</string>
+    <string name="no_downloading_file">No files are downloading.</string>
+    <string name="sync_records">סנכרן הקלטות עם Mi Cloud</string>
+    <string name="sync_only_in_wifi">סנכרן באמצעות WLAN בלבד.</string>
+    <string name="sync_only_in_wifi_summary">אם אפשרות זו מופעלת ,המקליט לא ישתמש בנתונים ניידים כדי להוריד ולהעלות הקלטות</string>
+    <string name="wifi_recommended_title">תזכורת תנועה</string>
+    <string name="wifi_recommended_body" formatted="false">"Starting this %s  download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
+
+ Touch %s to start this download the next time that you're connected to a WLAN network."</string>
+    <string name="button_queue_for_wifi">תור</string>
+    <string name="button_start_now">הורד</string>
+    <string name="notification_title_all_paused">ההורדה הושהתה</string>
+    <string name="notification_message_all_paused">עשוי להגדיל את השימוש בנתונים ניידים.</string>
+    <string name="toast_file_is_downloading">קובץ זה בהורדה</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="data_connection_title">עצה</string>
+    <string name="data_connection_body">"Tip:
+In operator network, downloading will cost much."</string>
+    <string name="data_connection_button_text">OK</string>
+    <string name="error_sdcard_unmounted">כרטיס SD לא נטען, אנא הכנס כרטיס SD</string>
+    <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
+</resources>

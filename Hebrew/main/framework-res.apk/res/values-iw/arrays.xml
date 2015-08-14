@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>בית</item>
+        <item>עבודה</item>
+        <item>אחר</item>
+        <item>מותאם אישית</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>עבודה</item>
+        <item>אחר</item>
+        <item>מותאם אישית</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>בית</item>
+        <item>נייד</item>
+        <item>עבודה</item>
+        <item>פקס בעבודה</item>
+        <item>פקס בבית</item>
+        <item>זימונית</item>
+        <item>אחר</item>
+        <item>מותאם אישית</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>בית</item>
+        <item>עבודה</item>
+        <item>אחר</item>
+        <item>מותאם אישית</item>
+    </string-array>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>iw_IL</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+        <item>עברית</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>בית</item>
+        <item>עבודה</item>
+        <item>אחר</item>
+        <item>מותאם אישית</item>
+    </string-array>
+</resources>
