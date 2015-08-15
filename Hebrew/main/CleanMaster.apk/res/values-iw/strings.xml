@@ -88,7 +88,7 @@
   <string name="hints_garbage_handle_item_content">"%1$d פריטים, %2$s"</string>
   <string name="hints_garbage_handle_item_empty_content">"ריק"</string>
   <string name="hints_install_apps_interval">"השתמש %d לפני ימים"</string>
-  <string name="hints_install_apps_new">"מעולם לא השתמש"</string>
+  <string name="hints_install_apps_new">"מעולם לא נפתח"</string>
   <string name="hints_install_apps_risk">"סיכון שזוהה"</string>
   <string name="hints_install_apps_today">"היום השתמש"</string>
   <string name="hints_install_apps_virus">"וירוס זוהה"</string>
@@ -98,10 +98,16 @@
   <string name="hints_latest_garbage_cleanup_never">"מעולם לא ניקיתי"</string>
   <string name="hints_latest_garbage_cleanup_today">"נקיון אחרון: היום"</string>
   <string name="hints_latest_garbage_cleanup_yesterday">"נקיון אחרון: אתמול"</string>
+  <string name="hints_list_item_clean">נקה</string>
+  <string name="hints_list_item_keep">שמור</string>
+  <string name="hints_list_item_lock">שמור</string>
+  <string name="hints_list_item_unlock">נקה</string>
+  <string name="hints_memory_header_left">זיכרון</string>
   <string name="hints_loading_text">"טוען..."</string>
   <string name="hints_quick_cleanning">"ניקוי ..."</string>
   <string name="hints_quick_cleanuping">"אופטימיזציה של ..."</string>
   <string name="hints_quick_scanning">"סריקה ..."</string>
+  <string name="hints_scanfinish">אין אשפה,נסה ניקוי עמוק יותר</string>
   <string name="hints_storage_free">"חינם"</string>
   <string name="hints_storage_free_size">"%s זמין"</string>
   <string name="hints_title_garbage">"אשפה"</string>
@@ -129,7 +135,7 @@
   <string name="pref_summary_auto_clean_and_alert">"הגדר ניקוי לפעול באופן אוטומטי"</string>
   <string name="pref_summary_auto_update_cleanup_db">"עדכון %s"</string>
   <string name="pref_summary_cleanup_white_list">"למנוע יישומים שנבחרו מלהיות מנוקים"</string>
-  <string name="pref_summary_expand_cache_group">"הרחבת פריטים ברשימת המטמון באופן אוטומטי"</string>
+  <string name="pref_summary_expand_cache_group">"הראה מידע על המטמון באופן אוטומטי"</string>
   <string name="pref_summary_garbage_auto_clean_content">"בחר אילו פריטים לנקות באופן אוטומטי"</string>
   <string name="pref_summary_garbage_cleanup_check_size">"לנקות באופן אוטומטי כאשר אשפה מגיעה לגודל מסוים"</string>
   <string name="pref_summary_garbage_cleanup_check_time">"לתזמן שיגרת נקיון"</string>
@@ -140,7 +146,7 @@
   <string name="pref_title_auto_update_cleanup_db">"עדכון אוטומטי"</string>
   <string name="pref_title_cleanup_white_list">"חריגים"</string>
   <string name="pref_title_expand_cache_group">"הצג פריטים במטמון"</string>
-  <string name="pref_title_garbage_auto_clean_content">"בחר פריטים לניקוי"</string>
+  <string name="pref_title_garbage_auto_clean_content">"פריטים לניקוי"</string>
   <string name="pref_title_garbage_cleanup_check_size">"מגבלת גודל אשפה"</string>
   <string name="pref_title_garbage_cleanup_check_time">"נקיון מתוכנן"</string>
   <string name="pref_title_garbage_process_mode">"התראות"</string>
