@@ -5,4 +5,5 @@
     <string name="label_shutdown">כיבוי</string>
     <string name="label_alert_reboot">הקש מעל על מנת להפעיל מחדש</string>
     <string name="label_alert_shutdown">הקש מעל על מנת לכבות</string>
+    <string name="label_blank">חזרה</string>
 </resources>
