@@ -18,7 +18,8 @@
     <string name="altitude">גובה</string>
     <string name="pressure_unit">hPa</string>
     <string name="altitude_unit">m</string>
-    <string name="dialog_title_no_network">לא נמצאה רשת, התחבר באמצעות Wi-Fi או אפשר נתונים</string>
+    <string name="dialog_title_no_network">הדלק את הרשת</string>
+	<string name="dialog_body_no_network">"לא מצליח להתחבר לרשת"</string>
     <string name="dialog_calibrat_altitude">כיול גובה באמצעות חיבור לאינטרנט.</string>
     <string name="latitude">LAT</string>
     <string name="longitude">LON</string>
