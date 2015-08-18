@@ -278,6 +278,7 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="eo_disable">Employment Opportunities disabled</string>
     <string name="enable_disable_mhh">רפואי, בריאות, ובית חולים</string>
     <string name="mhh_enable">Medical, Health, and Hospital enabled</string>
+	<string name="miprofile_stranger_card">Stranger card</string>
     <string name="mhh_disable">Medical, Health, and Hospital disabled</string>
     <string name="enable_disable_technology_news">חדשות טכנולוגיה</string>
     <string name="technology_news_enable">Technology News enabled</string>
@@ -572,7 +573,11 @@ Try again or call customer service for more options."</string>
     <string name="description_image_button_one">"אחד"</string>
     <string name="description_image_button_two">"שני"</string>
     <string name="description_image_button_three">"שלוש"</string>
+	<string name="description_image_button_tools">מאפיינים</string>
     <string name="description_image_button_four">"ארבעה"</string>
+	<string name="description_image_button_hangup">סיום שיחה</string>
+    <string name="description_image_button_message_enter">החלק למעלה כדי להגיב עם הודעה</string>
+    <string name="description_image_button_message_exit">הסתר הודעות</string>
     <string name="description_image_button_five">"חמש"</string>
     <string name="description_image_button_six">"שש"</string>
     <string name="description_image_button_seven">"שבע"</string>
@@ -581,7 +586,10 @@ Try again or call customer service for more options."</string>
     <string name="description_image_button_star">"כוכב"</string>
     <string name="description_image_button_zero">"אפס"</string>
     <string name="description_image_button_pound">סולמית</string>
+	<string name="description_image_button_reject">החלק למעלה כדי לדחות</string>
     <string name="description_dial_button">חייג</string>
+	<string name="description_image_button_answer">החלק למעלה כדי לענות</string>
+    <string name="description_image_button_dialpad">חייגן</string>
     <string name="description_delete_button">מחק</string>
     <string name="accessibility_speakerphone_enabled">רמקול מופעל.</string>
     <string name="accessibility_call_muted">שיחה מושתקת.</string>
