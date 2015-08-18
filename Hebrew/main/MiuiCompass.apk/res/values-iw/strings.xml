@@ -36,6 +36,8 @@
     <string name="mobiledata_alert_dialog_title">Data usage warning</string>
     <string name="mobiledata_alert_dialog_message">Connect to the internet to calibrate altitude?</string>
     <string name="do_not_show_next_time">"Don't show again"</string>
+	<string name="error_camera_unavailable">בדוק אם אפליקציה אחרת משתמשת במצלמה.</string>
+    <string name="error_camera_unavailable_title">מצלמה לא פעילה</string>
     <string name="location_not_enabled_title">Location services</string>
     <string name="location_not_enabled_summary">Directory needs your location info to work normally.</string>
     <string name="location_enable">Allow</string>
