@@ -35,6 +35,8 @@
     <string name="permlab_accessAllDownloads">"גישה לכל הורדות המערכת"</string>
     <string name="permdesc_accessAllDownloads">"מאפשר ליישום להציג ולשנות את כל ההורדות שהופעלו על ידי יישום כלשהו במערכת."</string>
     <string name="download_unknown_title">&lt;ללא שם></string>
+	<string name="enter_garbage_clean">נקה את הזיכרון הפנימי של המכשיר.</string>
+    <string name="insufficient_space">"אין מספיק מקום על הזיכרון של המכשיר"</string>
     <string name="notification_download_complete">"הורדה הושלמה"</string>
     <string name="notification_download_failed">"הורדה נכשלה."</string>
     <string name="notification_need_wifi_for_size">"גודל הורדה דורש WIFI."</string>
