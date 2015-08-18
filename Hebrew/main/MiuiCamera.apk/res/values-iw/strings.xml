@@ -272,6 +272,7 @@
     <string name="pref_camera_delay_capture_title">"טיימר"</string>
     <string name="simple_mode_button_text_delay_capture">"כבה את הטיימר"</string>
     <string name="pref_camera_delay_capture_entry_audio">"שמע"</string>
+	<string name="pref_camera_delay_capture_entry_off">כבוי</string>
     <string name="pref_camera_delay_capture_entry_3s">"-3"</string>
     <string name="pref_camera_delay_capture_entry_5s">"5S"</string>
     <string name="pref_camera_delay_capture_entry_10s">"10s"</string>
