@@ -118,7 +118,7 @@
     <string name="pref_daily_traffic">"מגבלת נתונים בשיא"</string>
     <string name="pref_data_usage_not_set">"הגדר מגבלת שימוש בנתונים"</string>
     <string name="pref_warning_values">"רמת אזהרת שימוש בנתונים"</string>
-    <string name="pref_pkg_begin_date">"תאריך האיפוס של מחזור שימוש"</string>
+    <string name="pref_pkg_begin_date">"תאריך האיפוס של השימוש"</string>
     <string name="pref_month_first_day">"היום הראשון של החודש"</string>
     <string name="pref_month_begin_date">"תאריך האיפוס של מחזור שימוש"</string>
     <string name="pref_more_traffic_settings">"הגדרות נוספות"</string>
@@ -131,7 +131,7 @@
     <string name="begin_date">"תאריך האיפוס של מחזור שימוש"</string>
     <string name="tips_dialog_title">"לא יודע הגבול שלך?"</string>
     <string name="tips_message">"אם אתה לא בטוח על פרטי התכנית האלחוטית שלך, אתה יכול להציג אותם על ידי %2$s %1$s"</string>
-    <string name="daily_pkg_traffic">"הגדר מגבלת שימוש בנתונים בזמן שיא "</string>
+    <string name="daily_pkg_traffic">"מגבלת שימוש בנתונים בזמן שיא "</string>
     <string name="input_aviable_traffic">"הגדר מגבלת שימוש בנתונים"</string>
     <string name="pkg_traffic">"הגדר מגבלת שימוש בנתונים"</string>
     <string name="datausage_ignore_app_list_count">"%d השימוש בנתונים של אפליקציות"</string>
@@ -149,7 +149,7 @@
     <string name="settings">"הגדרות שימוש בנתונים"</string>
     <string name="adjust_traffic_data">"הגדר שימוש בנתונים"</string>
     <string name="per_month_pkg_traffic_settings">"הגדר מגבלת נתונים"</string>
-    <string name="free_time_traffic_settings">"הגדרות מגבלת נתונים בזמן שפל"</string>
+    <string name="free_time_traffic_settings">"מגבלת נתונים בזמן שפל"</string>
     <string name="traffic_setting_fragment_title">"שאילתא שימוש בנתונים"</string>
     <string name="traffic_setting_fragment_button1_text">"בטל"</string>
     <string name="traffic_setting_fragment_button2_text">"שמור"</string>
@@ -180,8 +180,8 @@
     <string name="data_usage_correction_timeout_title">"סנכרון שימוש בנתונים שהוקצב"</string>
     <string name="data_usage_correction_timeout_body">"הקש כדי לעדכן באופן ידני."</string>
     <string name="data_usage_no_total_package_title">"אין גבול לשימוש בנתונים"</string>
-    <string name="data_usage_no_total_package_body">"גע כדי להגדיר מגבלת שימוש בנתונים."</string>
-    <string name="data_usage_no_total_package_body_dual">"גע כדי להגדיר מגבלת שימוש בנתונים %s"</string>
+    <string name="data_usage_no_total_package_body">"הקש כדי להגדיר מגבלת שימוש בנתונים."</string>
+    <string name="data_usage_no_total_package_body_dual">"לא הוגדר מגבלת שימוש בנתונים %s"</string>
     <string name="network_assistant_upgraded_title">"עדכון"</string>
     <string name="network_assistant_upgraded_body">"גע כדי להציג פרטים."</string>
     <string name="lock_screen_traffic_warn_title">"התרעות במסך נעילה"</string>
@@ -232,9 +232,9 @@
     <string name="operator_number_telcom">"10000"</string>
     <string name="dual_setting_simcard1">"סים 1"</string>
     <string name="dual_setting_simcard2">"סים 2"</string>
-    <string name="datausage_purchase_title_pkglist">"לרכוש נתונים נוספים"</string>
+    <string name="datausage_purchase_title_pkglist">"טעינת נתונים"</string>
     <string name="datausage_purchase_title_confirm">"פרטי רכישה"</string>
-    <string name="datausage_purchase_title_order">"לרכוש נתונים נוספים"</string>
+    <string name="datausage_purchase_title_order">"טעינת נתונים"</string>
     <string name="datausage_purchase_banner_title">"%s הצעת טעינה מראש (בלעדי)"</string>
     <string name="datausage_purchase_view_detail">"הצגת פרטים"</string>
     <string name="datausage_purchase_buy">"קנה"</string>
@@ -383,7 +383,7 @@
     <string name="roaming_start_title">"נדידה בינלאומית"</string>
     <string name="roaming_start_body">"אפליקציות משתמשות בשימוש נתונים."</string>
     <string name="dialog_app_roaming_title">"נדידה בינלאומית אינה מופעלת %1$s"</string>
-    <string name="dialog_app_roaming_message">"%1$s לא יכול להשתמש בשימוש נתונים בעת הנדידה. כאשר אתה נדידה בינלאומית, רק יישומים שהוספת לרשימה הלבנה יכולים להשתמש בנתונים ניידים."</string>
+    <string name="dialog_app_roaming_message">"%1$s לא יכול להשתמש בשימוש נתונים בעת הנדידה. כאשר אתה בנדידה בינלאומית,"</string>
     <string name="add_miservice_dialog_title">"מסגרת שירות MIUI"</string>
     <string name="add_miservice_dialog_content">"%s דורשת ממך להוסיף מסגרת שירות MIUI לרשימת החריגים. ייתכן שתקבלו הודעות מהאפליקציות ויישומי צד שלישי אחרים מובנים של MIUI."</string>
     <string name="traffic_setting_completed">"אישור"</string>
@@ -441,8 +441,8 @@
     <string name="notify_setting_pkg_title">"הגדר מגבלת נתונים החודשית שלך"</string>
     <string name="notify_setting_pkg_title_for_slotnum">"הגדר מגבלת נתונים חודשית %s"</string>
     <string name="notify_weekly_pkg_body">"%sהשתמשת השבוע. הקש כדי להגדיר גבול."</string>
-    <string name="notify_daily_data_usage_body">"%s בשימוש היום. הקש כדי להגדיר גבול."</string>
-    <string name="notify_month_traffic_body">"%sהשתמשת בחודש זה. הקש כדי להגדיר גבול."</string>
+    <string name="notify_daily_data_usage_body">למגבלת נתונים אוטומטית,הגדר תכנון של שימוש בנתונים חודשי</string>
+    <string name="notify_month_traffic_body">למגבלת נתונים אוטומטית,הגדר תכנון של שימוש בנתונים חודשי</string>
     <string name="notify_daily_limit_title">"קבע מגבלת נתונים יומית"</string>
     <string name="notify_daily_limit_title_for_slotnum">"הגדר מגבלת נתונים יומית %s"</string>
     <string name="notify_daily_limit_body">"%s בשימוש היום. הקש כדי להגדיר גבול."</string>
