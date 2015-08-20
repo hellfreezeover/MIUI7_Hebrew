@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="welcome">ברוכים הבאים אל</string>
+    <string name="welcome">ברוכים הבאים</string>
     <string name="input_method_setting">בחר מקלדת ברירת מחדל</string>
     <string name="input_method_category">בחר שיטת קלט ברירת מחדל</string>
     <string name="provision_inputmethod_policy_description">"View the selected keyboard's "</string>

@@ -86,11 +86,11 @@
     <string name="power_mode_sleep_in_minutes">"%1$d דקות של חוסר פעילות"</string>
     <string name="power_mode_sleep_never">"לעולם לא"</string>
     <string name="power_mode_wifi">"WLAN"</string>
-    <string name="power_mode_internet">"רשתות סלולריים"</string>
+    <string name="power_mode_internet">"רשתות"</string>
     <string name="power_mode_vibration">"רטט"</string>
     <string name="power_mode_vibration_yes">"תמיד"</string>
     <string name="power_mode_vibration_no">"לעולם לא"</string>
-    <string name="power_mode_vibration_silence">"כאשר צלצול מושתק"</string>
+    <string name="power_mode_vibration_silence">"כאשר מושתק"</string>
     <string name="power_mode_bluetooth">"בלוטות'"</string>
     <string name="power_mode_synchronization">"Sync"</string>
     <string name="power_mode_gps">"GPS"</string>
@@ -224,7 +224,7 @@
     <string name="st_title_mode_choose_group">"בחר פרופיל"</string>
     <string name="power_mode_choose_summary_change">"משהו השתנה בתצורה"</string>
     <string name="every_day">"כל יום"</string>
-    <string name="legal_workday">"החג"</string>
+    <string name="legal_workday">"יום עבודה חוקי"</string>
     <string name="never">"פעם 1"</string>
     <string name="power_20s_shutdown">"מכשיר יכבה תוך 20 שניות"</string>
     <string name="boot_reminder_day">המכשיר ידלק בעוד: %1$dd %2$dh %3$dm</string>
@@ -618,7 +618,7 @@
     <string name="cache_sort_type_item_name">"לפי שם"</string>
     <string name="menu_item_app_permissions_control">"מנהל רשות"</string>
     <string name="menu_item_control_app_permissions">"לבקש רשות לפני שמאפשר ליישומים לקרוא את אנשי הקשר שלך, להציג את היסטוריית השיחה שלך, לשנות הגדרות מערכת, או מצלמה גישה ומשאבי התקן אחרים"</string>
-    <string name="permission_close_permission_control_dialog_title">"כבה את מנהל רשות?"</string>
+    <string name="permission_close_permission_control_dialog_title">"לכבות?"</string>
     <string name="permission_close_permission_control_dialog_msg">"כאשר מנהל רשות כבוי, יישומים לא יבקשו רשות לפני קריאת אנשי הקשר שלך, צפייה בהיסטוריית השיחות שלך, שינוי הגדרות מערכת, או בגישת מצלמה ומשאבי התקן אחרים."</string>
     <string name="permission_permission_control_closed_desc_dialog_title">"מנהל רשות"</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">"תוכנות לא יבקשו את רשותך לפני שתקרא את אנשי הקשר שלך, צפייה בהיסטוריית השיחות שלך, שינוי הגדרות מערכת, או בגישת מצלמה ומשאבי התקן אחרים. אתה יכול להפעיל תכונה זו בהגדרות הרשאה."</string>
