@@ -1,7 +1,7 @@
 <resources>
   <string name="abc_action_bar_home_description">" נווט לבית"</string>
   <string name="abc_action_bar_up_description">"נווט עד"</string>
-  <string name="action_mode_deselect_all">"בטל בחירה של הכל"</string>
+  <string name="action_mode_deselect_all">"בטל בחירה"</string>
   <string name="action_mode_select_all">"בחר הכל"</string>
   <string name="action_mode_title_empty">"בחר פריטים"</string>
   <string name="activate">"הפעל"</string>
@@ -20,7 +20,7 @@
   <string name="date_picker_dialog_title">"מועד שנקבע"</string>
   <string name="date_time_done">"עָשׂוּי"</string>
   <string name="date_time_picker_dialog_title">"קבע תאריך ושעה"</string>
-  <string name="deselect_all">"ביטול בחירה של הכל"</string>
+  <string name="deselect_all">"ביטול בחירה"</string>
   <string name="early_morning">"AM"</string>
   <string name="email">"דוא\"ל"</string>
   <string name="error_forbidden">"Sync בוטל עקב בעיות עם החשבון Mi שלך."</string>

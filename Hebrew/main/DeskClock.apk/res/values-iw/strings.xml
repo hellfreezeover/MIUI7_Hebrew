@@ -96,6 +96,8 @@
     <string name="alarm_in_silent_mode_title">התראה במצב שקט</string>
     <string name="snooze_duration_title">משך זמן נודניק</string>
     <string name="auto_silence_title">שתיקה אוטומטית</string>
+	<string name="birthday_alarm">התרעת יום הולדת</string>
+    <string name="birthday_alarm_summary">נגן/יום הולדת שמח/במקום ברירת המחדל בעת יום הולדך </string>
     <string name="auto_silence_summary">שעון מעורר יושתק אחרי %d דקות</string>
     <string name="auto_silence_never">כבה</string>
     <string name="done">סיים</string>

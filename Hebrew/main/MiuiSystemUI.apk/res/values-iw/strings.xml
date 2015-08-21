@@ -93,6 +93,7 @@
     <string name="description_direction_up">החלק מעלה ל %s.</string>
     <string name="description_direction_left">החלק שמאלה ל %s.</string>
     <string name="description_target_search">חפש</string>
+	<string name="disable_notification_summary">"הסתר התרעות אפליקציה"</string>
     <string name="status_bar_recent_memory_info1">"%s "</string>
     <string name="status_bar_recent_memory_info2">" %s available"</string>
     <string name="usb_mode_notification">אחסון USB</string>
@@ -169,7 +170,8 @@
     <string name="status_bar_network_flow_today">Today: %1$s</string>
     <string name="status_bar_network_flow">"Today: %1$s    Remaining: %2$s    Monthly limit: %3$s"</string>
     <string name="status_bar_network_flow_exceed">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly limit: %4$s</string>
-    <string name="drive_mode_tip">Car mode enabled - Please drive carefully</string>
+    <string name="drive_mode_tip">אתה ברכב,סע בזהירות</string>
+	<string name="expanded_confirm_disable_notification">אשר</string>
     <string name="no_notification_tips">אין התראות</string>
     <string name="notification_otg_mouse_in">עכבר חובר</string>
     <string name="notification_otg_keyboard_in">מקלדת חוברה</string>
@@ -199,12 +201,15 @@
     <string name="headset_settings">אוזניות מחוברות</string>
     <string name="headset_info">התאמה אישית של פונקציות לחצנים</string>
     <string name="headset_custom">התאמה אישית</string>
-    <string name="usb_share_net_info">Share network using USB</string>
-    <string name="hint_for_long_press_app_switch_key">Long press to show menu</string>
-    <string name="battery_profiles">Use battery profiles</string>
-    <string name="oldman_airplane_mode_text">airplane</string>
-    <string name="oldman_incall_text">incall</string>
-    <string name="audio_effect_settings">Set headphones type</string>
-    <string name="audio_effect_info">Optimize audio</string>
+    <string name="usb_share_net_info">שתף רשת בשימוש עם USB</string>
+    <string name="hint_for_long_press_app_switch_key">לחיצה ארוכה כדי להראות את התפריט</string>
+    <string name="battery_profiles">השתמש בפרופילים של הסוללה</string>
+	<string name="block_record_notification_more_text">גע כדי לצפות ,באפליקציות %1$s %2$d</string>
+    <string name="block_record_notification_text">גע כדי לצפות %1$s</string>
+    <string name="block_record_notification_title">חסום הקלטה</string>
+    <string name="oldman_airplane_mode_text">מצב טיסה</string>
+    <string name="oldman_incall_text">שיחה</string>
+    <string name="audio_effect_settings">הגדר סוג אוזניות</string>
+    <string name="audio_effect_info">שיפור השמע</string>
     <string name="audio_effect_custom">Configure</string>
 </resources>

@@ -29,7 +29,7 @@
     <string name="download">הורד</string>
     <string name="downloading">מוריד</string>
     <string name="insufficient_drm_rights">לא אותרו מספיק זכויות DRM.</string>
-    <string name="copy_message_text">העתק טקסט</string>
+    <string name="copy_message_text">העתק</string>
     <string name="copy_message_text_success">ההודעה הועתקה בהצלחה!</string>
     <string name="done">בוצע</string>
     <string name="move_up">העבר למעלה</string>
@@ -310,6 +310,7 @@
     <string name="pref_title_ringtone_repeat">צילצול התראה מתמשך</string>
     <string name="pref_other_title">"   חתימה והגדרות נוספות"</string>
     <string name="pref_system_title">מערכת</string>
+	<string name="pref_time_auto_group_disabled_summary">"לא תומך בגודל הפונט הנוכחי"</string>
     <string name="pref_advanced_settings_title">הגדרות מתקדמות</string>
     <string name="pref_edit_smsc_address">מספר מוקד הודעות</string>
     <string name="pref_title_allow_si_sl_push">אפשר WAP בדחיפה</string>
@@ -437,7 +438,7 @@
     <string name="context_menu_add_to_browser_favorite">הוסף למעודפים של הדפדפן</string>
     <string name="restore_all_button_msg">Restore all messages from this number</string>
     <string name="no_block_button_msg">Don’t block messages from this number</string>
-    <string name="restore_blocked_message">שחזור הודעות חסומות</string>
+    <string name="restore_blocked_message">שחזור</string>
     <string name="overwrite_edited_content">התוכן הערוך ישוכתב, ברצונך להמשיך?</string>
     <string name="back_to_message_list">back to message list</string>
     <string name="select_recipient">בחר נמען</string>

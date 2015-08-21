@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alphabet_table">
-        <item>\#</item>
         <item>א</item>
         <item>ב</item>
         <item>ג</item>
@@ -27,7 +26,6 @@
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
-        <item>\#</item>
         <item>א</item>
         <item>ב</item>
         <item>ג</item>
