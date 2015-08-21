@@ -25,6 +25,7 @@
     <string name="cloud_record">Recording in cloud(%d)</string>
     <string name="no_file">אין הקלטה</string>
     <string name="alert_message_delete_record">האם למחק הקלטה זו?</string>
+	<string name="alert_message_delete_record_title">מחק הקלטה</string>
     <string name="rename">שנה שם</string>
     <string name="delete">מחק</string>
     <string name="deleting_message">מוחק...</string>
@@ -35,6 +36,7 @@
     <string name="status_bar_recording">מקליט...</string>
     <string name="status_bar_back">לחץ כדי לחזור להקלטה</string>
     <string name="status_bar_recording_pause">"ההקלטה הושהתה "</string>
+	<string name="loading_recording">טוען</string>
     <string name="low_battery_error">בסוללה נשאר פחות מ-5% , כדי להבטיח כי ההקלטה לא תאבד, ההקלטה הופסקה ונישמרה.</string>
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">הגדרות הקלטה</string>

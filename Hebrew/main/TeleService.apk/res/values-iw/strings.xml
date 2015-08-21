@@ -371,6 +371,8 @@
     <string name="incall_error_no_phone_number_supplied">"המספר שהזנת אינו חוקי."</string>
     <string name="incall_error_call_failed">"לא יכולתי לבצע את השיחה."</string>
     <string name="incall_status_dialed_mmi">"מתחיל רצף MMI ..."</string>
+	<string name="incoming_video_show_pref_summary">הצג פרופיל ווידאו שהוגדר על ידי מתקשר,להשתמש בתכונה זו הדלק כרטיסי איש קשר.</string>
+    <string name="incoming_video_show_pref_title">"הצג פרופיל ווידאו של מתקשר"</string>
     <string name="incall_error_turn_off_airplane_mode">"כבה את מצב טיסה"</string>
     <string name="incall_error_no_active_sim">"כרטיס ה- SIM לא הופעל"</string>
     <string name="emergency_enable_radio_dialog_title">"שיחת חירום"</string>
@@ -785,6 +787,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="cdma_display_precise_call_state_summary">"ודא שספק הרשת שלך תומך בפונקציה זו"</string>
     <string name="cdma_display_precise_call_state_message">"אם ספק הרשת שלך אינו תומך בפונקציה זו, מצב שיחה עשוי להיות לא מדויק."</string>
     <string name="other_settings_category">"אחר"</string>
+	<string name="overseas_roaming_setting">נדידה מעבר לים</string>
     <string name="caller_id_title">"שיחה מזוהית"</string>
     <string name="caller_id_summary">"להסתיר את המספר שלי לשיחות יוצאות (לוודא שהספק שלך תומך בתכונה זו)"</string>
     <string name="get_smsc_address_error">"לא ניתן להתחבר לרשת."</string>
