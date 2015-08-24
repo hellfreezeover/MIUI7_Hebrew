@@ -2051,13 +2051,14 @@
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">תצוגה אלחוטית מושבת בגלל WLAN כבוי</string>
     <string name="screen_timeout_title">השהיית מסך</string>
     <string name="sim_status_title">"מצב SIM "</string>
+	<string name="keywords_display_font_size">גודל גופן</string>
     <string name="config_mtp_function_name">MTP</string>
     <string name="config_ptp_function_name">PTP</string>
     <string name="config_mass_storage_function_name">אחסון בנפח גדול</string>
     <string name="wifi_type_approval" />
-    <string name="do_not_disturb_mode">DND</string>
+    <string name="do_not_disturb_mode">מצב אל תפריע</string>
     <string name="dndm_notification">מצב DND מופעל.</string>
-    <string name="dndm_open">DND אפשר</string>
+    <string name="dndm_open">אפשר מצב אל תפריע</string>
     <string name="dndm_auto_setting_group">מתוכנן</string>
     <string name="dndm_auto_button_title">זמן</string>
     <string name="dndm_auto_time_setting">הגדרות זמן</string>
