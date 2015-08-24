@@ -215,7 +215,10 @@
     <string name="bluetooth_ask_discovery">יישום מסוים בטלפון שלך רוצה להפוך את הטלפון לגלוי בפני מכשירי Bluetooth אחרים %1$d שניות. לאפשר?</string>
     <string name="bluetooth_ask_lasting_discovery">\"מסוים בטלפון שלך רוצה להפוך את הטלפון לגלוי תמיד למכשירי Bluetooth יישום אחר. לאפשר?\"</string>
     <string name="bluetooth_ask_enablement_and_discovery">יישום מסוים בטלפון שלך רוצה להפעיל את Bluetooth ולהפוך את הטלפון לגלוי בפני מכשירים למשך %1$d שניות. לאפשר?</string>
+	<string name="bluetooth_ask_enablement_and_discovery_detected">רוצה להדליק את הבלוטוס ולהיות נראה ל%1$d שניות.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">יישום מסוים בטלפון שלך רוצה להפעיל את Bluetooth ולהפוך את הטלפון לגלוי בפני מכשירים אחרים. לאפשר?</string>
+	<string name="bluetooth_ask_enablement_and_lasting_discovery_detected">רוצה להדליק את המכשיר לך ולגרום לו להיות נראה למכשירים אחרים.אתה יכול לשנות את זה בהגדרות.</string>
+    <string name="bluetooth_ask_enablement_detected">רוצה להדליק את הבלוטוס.</string>
     <string name="bluetooth_turning_on">מפעיל Bluetooth ...</string>
     <string name="bluetooth_turning_off">המכבה Bluetooth ...</string>
     <string name="bluetooth_auto_connect">חיבור אוטומטי</string>
@@ -319,6 +322,7 @@
     <string name="sd_card_settings_label">כרטיס SD</string>
     <string name="proxy_settings_label">הגדרות פרוקסי</string>
     <string name="cancel">ביטול</string>
+	<string name="cancel_action">ביטול</string>
     <string name="settings_label">הגדרות</string>
     <string name="settings_label_launcher">הגדרות</string>
     <string name="settings_shortcut">קיצור דרך של הגדרות</string>
@@ -1159,7 +1163,7 @@
     <string name="filter">סינון</string>
     <string name="filter_dlg_title">בחר אפשרויות סינון</string>
     <string name="filter_apps_all">הכל</string>
-    <string name="filter_apps_disabled">נכים</string>
+    <string name="filter_apps_disabled">אפליקציות מנוטרלות</string>
     <string name="filter_apps_third_party">יישומים שהותקנו</string>
     <string name="filter_apps_running">פועל</string>
     <string name="filter_apps_onsdcard">בכרטיס SD</string>
@@ -1436,7 +1440,7 @@
     <string name="print_menu_item_add_printer">הוספת מדפסת</string>
     <string name="print_menu_item_search">חיפוש</string>
     <string name="print_searching_for_printers">מחפש מדפסות</string>
-    <string name="print_service_disabled">שירות נכים</string>
+    <string name="print_service_disabled">שירות מנוטרל</string>
     <string name="print_print_jobs">עבודות הדפסה</string>
     <string name="print_print_job">עבודת הדפסה</string>
     <string name="print_restart">הפעל מחדש</string>
@@ -1922,7 +1926,7 @@
     <string name="backup_pw_cancel_button_text">ביטול</string>
     <string name="percentage">%d %%</string>
     <string name="additional_system_update_settings_list_item_title">עדכוני מערכת נוספת</string>
-    <string name="selinux_status_disabled">נכים</string>
+    <string name="selinux_status_disabled">מנוטרל</string>
     <string name="selinux_status_permissive">מַרשֶׁה</string>
     <string name="selinux_status_enforcing">אכיפה</string>
     <string name="ssl_ca_cert_warning">רשת עשויה להיות במעקב</string>
@@ -1936,7 +1940,7 @@
     <string name="user_add_user_menu">הוסף משתמש</string>
     <string name="user_summary_restricted_profile">פרופיל מוגבל</string>
     <string name="user_need_lock_message">לפני שתוכל ליצור פרופיל מוגבל, תצטרך להגדיר נעילת מסך כדי להגן על היישומים שלך ונתונים אישיים.</string>
-    <string name="user_set_lock_button">מנעול סט</string>
+    <string name="user_set_lock_button">הגדר נעילה</string>
     <string name="user_summary_not_set_up">לא להגדיר</string>
     <string name="user_summary_restricted_not_set_up">לא הקים - מוגבל לפרופיל</string>
     <string name="user_owner">בעלים</string>
@@ -2602,7 +2606,7 @@
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">אפשר 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">פלט 3D סטריאוסקופית לתצוגת 3D חיצוני אפשר</string>
-    <string name="hdmi_3dplay_control_disable_subtext">פלט 3D סטריאוסקופית לתצוגת 3D חיצוני נכים</string>
+    <string name="hdmi_3dplay_control_disable_subtext">פלט 3D סטריאוסקופית לתצוגת 3D חיצוני מנוטרל</string>
     <string name="adjust_3d_depth_title">"התאם עומק 3D 'משחקים"</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3d_help_title">אודות תמיכת HDMI 3D סטריאוסקופית</string>
@@ -2613,7 +2617,7 @@
     <string name="title_color_calibration">מראש תיקון צבע</string>
     <string name="dialog_title_color_calibration">מראש תיקון צבע</string>
     <string name="color_calibration_srgb">sRGB</string>
-    <string name="color_calibration_none">Native</string>
+    <string name="color_calibration_none">רגיל</string>
     <string name="title_hdmi_color_calibration">מראש תיקון צבע</string>
     <string name="dialog_title_hdmi_color_calibration">מראש תיקון צבע</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
@@ -2696,6 +2700,11 @@
     <string name="no_updates_warning2">תירגע, אנחנו נודיע לך אם יש עדכון :)</string>
     <string name="network_error">שגיאת רשת</string>
     <string name="checking_for_updates">מחפש עדכונים...</string>
+	<string name="children_mode_enable_title">בקרת הורים</string>
+    <string name="children_mode_set_apps_title">אפליקציות נגישות ל</string>
+    <string name="children_mode_tips_off">אחרי שהחסימת הורים פועל,גע בכפתור הבית כדי לחזור</string>
+    <string name="children_mode_tips_on">אחרי שהחסימת הורים מבוטלת,גע בכפתור הבית כדי לחזור</string>
+    <string name="children_mode_title">חסימת הורים</string>
     <string name="rebootiing_for_updates">אתחול מחדש...</string>
     <string name="update_progress_for_updates">עדכון %s</string>
     <string name="button_text_reboot_now">אתחול מחדש</string>
