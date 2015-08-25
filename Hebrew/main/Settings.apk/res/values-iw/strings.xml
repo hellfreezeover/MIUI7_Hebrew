@@ -744,7 +744,6 @@
     <string name="ipaddr_label">IPaddr:</string>
     <string name="macaddr_label">כתובת MAC:</string>
     <string name="networkid_label">זהות רשת:</string>
-	<string name="networks">בחירת מפעיל</string>
 	<string name="never">לעולם לא</string>
     <string name="link_speed_label">מהירות קישור</string>
     <string name="scan_list_label">סרוק תוצאות:</string>
@@ -2082,7 +2081,6 @@
 	<string name="dndm_wristband">צמיד חכם</string>
     <string name="dndm_wristband_detailed">"הדלק מצב אל תפריע כאשר צמיד Mi מזהה שאתה ישן שעה לפני ההתחלה הקבועה מראש "</string>
     <string name="dndm_wristband_detailed2">"כבה מצב אל תפריע כאשר צמיד Mi מזהה שאתה ער שעה לפני סוף הזמן הקבוע מראש"</string>
-    <string name="do_not_disturb_mode">מצב אל תפריע</string>
     <string name="dndm_vip_list_custom">חריגים</string>
     <string name="dndm_vip_list_contact">כל אנשי הקשר</string>
     <string name="dndm_vip_list_custom_group">חריגים</string>
@@ -2539,7 +2537,7 @@
     <string name="floating_window_switch_label">הצג חלון צף</string>
 	<string name="fluency_mode">שפר ביצועי מערכת</string>
    <string name="fluency_mode_confirm_and_reboot">הפעל מחדש</string>
-+  <string name="font_size_exhuge">ענק מאוד</string>
+   <string name="font_size_exhuge">ענק מאוד</string>
     <string name="floating_window_switch_label_disable">הסתר חלון צף</string>
     <string name="app_floating_window_dlg_enable">אפשור הפעלת %1$s בחלון צף דורש הפעלתו מחדש. האם אתה בטוח שברצונך לאפשר זאת?</string>
     <string name="app_floating_window_dlg_disable">ביטול פעולת %1$s בחלון צף יעצור את האפליקציה בכוח. האם אתה בטוח שאתה רוצה לבטל?</string>
