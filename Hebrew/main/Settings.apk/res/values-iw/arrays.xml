@@ -204,11 +204,11 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>White on black</item>
-        <item>Black on white</item>
-        <item>Yellow on black</item>
-        <item>Yellow on blue</item>
-        <item>Custom</item>
+        <item>לבן על שחור</item>
+        <item>שחור על לבן</item>
+        <item>צהוב על שחור</item>
+        <item>צהוב על כחול</item>
+        <item>מותאם אישית</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Never check</item>
@@ -330,7 +330,7 @@
         <item>ירוק</item>
         <item>תכלת</item>
         <item>לבן</item>
-        <item>Violet</item>
+        <item>סגול</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 שניות</item>
@@ -377,8 +377,8 @@
         <item>דחה</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Single-mic noise suppression</item>
-        <item>Dual-mic noise suppression</item>
+        <item>הפחתת רעשים ממיקרופון יחיד</item>
+        <item>הפחתת רעשים משני מיקופונים</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>שיחרור בזיהוי פנים</item>
