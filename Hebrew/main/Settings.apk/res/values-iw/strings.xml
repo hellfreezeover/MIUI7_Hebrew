@@ -181,7 +181,7 @@
     <string name="bluetooth_is_discoverable_always">גלוי לכל מכשירי Bluetooth הסמוכים</string>
     <string name="bluetooth_not_visible_to_other_devices">לא גלוי למכשירי Bluetooth אחר</string>
     <string name="bluetooth_only_visible_to_paired_devices">גלוי רק למכשירים מותאמים</string>
-    <string name="bluetooth_visibility_timeout">זצן קצוב לחשיפה</string>
+    <string name="bluetooth_visibility_timeout">זמן קצוב לחשיפה</string>
     <string name="bluetooth_lock_voice_dialing">נעל חיוג קולי</string>
     <string name="bluetooth_lock_voice_dialing_summary">מנע שימוש בחייגן Bluetooth כאשר מסך נעול</string>
     <string name="bluetooth_devices">התקני Bluetooth</string>
@@ -545,7 +545,7 @@
     <string name="wifi_display_status_not_available">לא זמין</string>
     <string name="wifi_display_details">הגדרות תצוגה</string>
     <string name="wifi_display_options_title">אפשרויות תצוגה אלחוטיות</string>
-    <string name="wifi_display_options_forget">תשכח</string>
+    <string name="wifi_display_options_forget">שכח</string>
     <string name="wifi_display_options_done">בוצע</string>
     <string name="wifi_display_options_name">שם</string>
     <string name="wifi_display_certification_heading">הסמכה</string>
@@ -2183,6 +2183,8 @@
     <string name="title_font">גופן</string>
     <string name="title_font_current">בחר גופן מערכת</string>
     <string name="title_layout_current">בחר את גודל הגופן</string>
+	<string name="title_font_current2">גופן מערכת</string>
+    <string name="title_layout_current2">גודל טקסט</string>
     <string name="handy_mode">מצב יד אחת</string>
     <string name="handy_mode_enable">מצב יד אחת</string>
 	<string name="handy_mode_enter_ask">שאל לפני כניסה למצב יד אחת</string>
