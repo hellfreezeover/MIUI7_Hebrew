@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">"סירטון"</string>
+    <string name="app_name">"סירטונים"</string>
     <string name="xiaomi_account_type_unsupported">"החשבון Mi אינו נתמך"</string>
     <string name="no_login_xiaomi_account">"להגיש הערות, היכנס עם חשבון Mi"</string>
     <string name="authenticating">"&lt;CDATA&gt; אימות ... &lt;/ CDATA&gt;"</string>
