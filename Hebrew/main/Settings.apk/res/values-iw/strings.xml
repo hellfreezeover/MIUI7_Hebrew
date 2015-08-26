@@ -61,7 +61,6 @@
     <string name="status_bar_settings_show_home_message">סמל יישום</string>
     <string name="status_bar_settings_show_keyguard_notification">התראות קופצות ומסך נעילה</string>
 	<string name="status_bar_settings_notification_led">תאורת התראה</string>
-    <string name="status_bar_settings_notification_bar">צללית התראה</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">מוטט לאחר נגיעה</string>
     <string name="status_bar_settings_show_screenshot_notification">הצג התראת לכידת מסך</string>
     <string name="status_bar_settings_status_bar">שורת מצב</string>
