@@ -53,8 +53,9 @@
     <string name="status_bar_settings_toggle_layout_style_compact">בר</string>
     <string name="status_bar_settings_toggle_layout_style_single_page">דף</string>
     <string name="status_bar_settings_toggle_layout_style_applying">משנה סגנון ...</string>
-    <string name="status_bar_settings_custom_notification">ניהול התראות</string>
+    <string name="status_bar_settings_manage_notification">ניהול התראות</string>
     <string name="status_bar_settings_all_app_display_loading">טוען...</string>
+	<string name="status_bar_settings_enable_notification">אפשר התראות</string>
     <string name="status_bar_settings_notification_bar">צללית התראה</string>
     <string name="status_bar_settings_notification_priority">עדיפות</string>
 	<string name="status_bar_settings_notification_priority_summary">הראה התראות בראש הרשימה</string>
@@ -863,7 +864,7 @@
     <string name="fcc_equipment_id">זיהוי ציוד</string>
     <string name="baseband_version">גרסת פס בסיס</string>
     <string name="kernel_version">גרסת קרנל</string>
-    <string name="build_number">גרסאת לבנות</string>
+    <string name="build_number">מספר גירסה</string>
     <string name="selinux_status">מעמד SELinux</string>
     <string name="device_info_not_available">לא זמין</string>
     <string name="device_status_activity_title">מצב</string>
@@ -1156,7 +1157,7 @@
     <string name="uninstall_text">הסר התקנה</string>
     <string name="uninstall_all_users_text">להסיר עבור כל המשתמשים</string>
     <string name="install_text">התקן</string>
-    <string name="disable_text">נטרלתי</string>
+    <string name="disable_text">נטרל</string>
     <string name="enable_text">אפשר</string>
     <string name="clear_user_data_text">נקה נתונים</string>
     <string name="app_factory_reset">הסר התקנה של עדכונים</string>
@@ -2102,7 +2103,7 @@
     <string name="search_android_beam">קרן</string>
     <string name="search_vpn">VPN</string>
     <string name="search_tether">שיתוף</string>
-    <string name="search_brightness">בהיר</string>
+    <string name="search_brightness">בהירות</string>
     <string name="search_wallpaper">טפט</string>
     <string name="search_accelerometer">תאוצה</string>
     <string name="search_screen_timeout">השהיית מסך</string>
@@ -2731,9 +2732,9 @@
     <string name="no_updates_warning2">תירגע, אנחנו נודיע לך אם יש עדכון :)</string>
     <string name="network_error">שגיאת רשת</string>
     <string name="checking_for_updates">מחפש עדכונים...</string>
-	<string name="children_mode_enable_title">בקרת הורים</string>
+	<string name="children_mode_enable_title">חסימת הורים</string>
     <string name="children_mode_set_apps_title">אפליקציות נגישות ל</string>
-    <string name="children_mode_tips_off">אחרי שהחסימת הורים פועל,גע בכפתור הבית כדי לחזור</string>
+    <string name="children_mode_tips_off">אחרי שהחסימת הורים פועלת,גע בכפתור הבית כדי לחזור</string>
     <string name="children_mode_tips_on">אחרי שהחסימת הורים מבוטלת,גע בכפתור הבית כדי לחזור</string>
     <string name="children_mode_title">חסימת הורים</string>
     <string name="rebootiing_for_updates">אתחול מחדש...</string>

@@ -934,7 +934,8 @@
     <string name="home_page_tab_photo">תמונות</string>
     <string name="home_page_tab_cloud">ענן</string>
     <string name="home_page_tab_local">מקומי</string>
-    <string name="error_title">"Can't sync"</string>
+	<string name="home_page_tab_face">אנשים</string>
+    <string name="error_title">"לא יכול לסנכרן"</string>
     <string name="error_unauthorized">סינכרון הושבת בשל ניסיונות כניסה רבים מדי.</string>
     <string name="error_forbidden">הסנכרון בוטל בשל בעיות עם חשבון Mi Account שלך.</string>
     <string name="error_not_acceptable">סינכרון הושבת.</string>
@@ -984,5 +985,6 @@
     <string name="auto_upload_guide_msssage">"  Automatically upload your photos from other apps to Mi Cloud. View settings in &lt;font color=#323232>&lt;b>Gallery settings>Sync with Mi Cloud>Upload automatically&lt;/b>&lt;/font>.  "</string>
     <string name="not_now">לא כעת</string>
     <string name="go_setting">הצג הגדרות</string>
+	<string name="all_video_album_display_name">כל הסירטונים</string>
     <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
 </resources>
