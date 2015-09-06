@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:id="@id/bottomButtons" android:background="@drawable/incall_controls_main_buttons_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:layout_alignParentBottom="true" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/dialpadButton" android:background="@drawable/ic_in_call_touch_keyboard_circle" android:visibility="invisible" style="@style/Miui.Button.InCallMain" />
+    <ImageView android:id="@id/dialpadArrow" android:background="@drawable/ic_in_call_touch_keyboard_content" android:visibility="invisible" style="@style/Miui.Button.InCallMain" />
+    <Button android:id="@id/endButton" android:visibility="invisible" android:layout_centerHorizontal="true" style="@style/Miui.Button.Hangup" />
+    <ImageView android:id="@id/toolsButton" android:background="@drawable/ic_in_call_touch_tools_circle" android:visibility="invisible" android:layout_alignParentEnd="true" style="@style/Miui.Button.InCallMain" />
+    <ImageView android:id="@id/toolsArrow" android:background="@drawable/ic_in_call_touch_tools_content" android:visibility="invisible" android:layout_alignParentEnd="true" style="@style/Miui.Button.InCallMain" />
+</RelativeLayout>
