@@ -260,7 +260,7 @@
     <string name="btn_text_quick_optimize">"לייעל"</string>
     <string name="menu_text_antivirus">"סריקת וירוסים"</string>
     <string name="menu_text_networkassistants">"שימוש בנתונים"</string>
-    <string name="menu_text_networkassistants_remain">"%s שמאל"</string>
+    <string name="menu_text_networkassistants_remain">"%s נותר"</string>
     <string name="menu_text_networkassistants_danger">"%s מעל"</string>
     <string name="menu_text_antispam">"רשימת חסומים"</string>
     <string name="menu_text_license_manager">"הרשאות"</string>
