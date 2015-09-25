@@ -46,7 +46,7 @@
     <string name="accessibility_data_one_bar">פס אחד של נתונים.</string>
     <string name="accessibility_data_two_bars">שני פסים של נתונים.</string>
     <string name="accessibility_data_three_bars">שלושה פסים של נתונים.</string>
-    <string name="accessibility_data_four_bars">Data four bars.</string>
+    <string name="accessibility_data_four_bars">ארבעה פסים של נתונים.</string>
     <string name="accessibility_data_signal_full">אות הנתונים מלא.</string>
     <string name="accessibility_no_wifi">אין Wi-Fi.</string>
     <string name="accessibility_wifi_one_bar">פס אחד של Wi-Fi.</string>
@@ -117,7 +117,7 @@
     <string name="call_status_ringing">מצלצל</string>
     <string name="reject_call">דחיית שיחה</string>
     <string name="status_bar_style_settings">הגדרות באר הסטטוסים</string>
-    <string name="settings_custom_notification">Custom notification Settings</string>
+    <string name="settings_custom_notification">הגדרת התראות מותאמות אישית</string>
     <string name="settings_toggle_position">התאם לחצנים</string>
     <string name="settings_toggle_position_divider_page">%1$d כפתרי הפעלה מעל זה זמינים</string>
     <string name="settings_toggle_position_divider_list">כפתרי הפעלה מעל זה זמינים</string>
@@ -167,9 +167,9 @@
     <string name="ext_media_mountable_notification_title">התקן אחסון USB מחובר</string>
     <string name="ext_media_mountable_notification_message">מדיה מותקנת, אתה יכול לגשת אליv דרך סייר הקבצים</string>
     <string name="ext_media_safe_remove">הסרה בטוחה של מדיה</string>
-    <string name="status_bar_network_flow_today">Today: %1$s</string>
-    <string name="status_bar_network_flow">"Today: %1$s    Remaining: %2$s    Monthly limit: %3$s"</string>
-    <string name="status_bar_network_flow_exceed">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly limit: %4$s</string>
+    <string name="status_bar_network_flow_today">היום: %1$s</string>
+    <string name="status_bar_network_flow">"היום: %1$s    נותר: %2$s    מגבלה חודשית: %3$s"</string>
+    <string name="status_bar_network_flow_exceed">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly limit: %4$s</string>
     <string name="drive_mode_tip">אתה ברכב,סע בזהירות</string>
 	<string name="expanded_confirm_disable_notification">אשר</string>
     <string name="no_notification_tips">אין התראות</string>
@@ -211,5 +211,5 @@
     <string name="oldman_incall_text">שיחה</string>
     <string name="audio_effect_settings">הגדר סוג אוזניות</string>
     <string name="audio_effect_info">שיפור השמע</string>
-    <string name="audio_effect_custom">Configure</string>
+    <string name="audio_effect_custom">הגדר</string>
 </resources>
