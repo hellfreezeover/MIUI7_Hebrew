@@ -1348,7 +1348,7 @@
     <string name="enable_adb_summary">מצב תיקון באגים כאשר USB מחובר</string>
     <string name="clear_adb_keys">לבטל את אישורי איתור באגים USB</string>
     <string name="bugreport_in_power">דיווחי באגים תפריט Power</string>
-    <string name="bugreport_in_power_summary">כולל אפשרות בתפריט כוח לקחת דיווח באג</string>
+    <string name="bugreport_in_power_summary">כולל אפשרות בתפריט הפעלה לקחת דיווח באג</string>
     <string name="keep_screen_on">השאר פועל</string>
     <string name="keep_screen_on_summary">מסך לעולם לא יהיה כבוי במהלך הטעינה</string>
     <string name="bt_hci_snoop_log">אפשר יומן סנופ Bluetooth HCI</string>
@@ -1804,13 +1804,13 @@
     <string name="enable_opengl_traces_title">אפשר עקבות OpenGL</string>
     <string name="debug_layout">גבולות פריסת תכנית</string>
     <string name="debug_layout_summary">"הצג קליפ גבולות, שוליים, וכו '"</string>
-    <string name="force_rtl_layout_all_locales">כיוון פריסת הכוח RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">כיוון פריסת מסך כוח לRTL עבור כל האזורים</string>
+    <string name="force_rtl_layout_all_locales">כיוון פריסת ההספק RTL</string>
+    <string name="force_rtl_layout_all_locales_summary">כיוון פריסת מסך הספק לRTL עבור כל האזורים</string>
     <string name="show_cpu_usage">הצג שימוש במעבד</string>
     <string name="show_cpu_usage_summary">שכבה על של מסך מציג את השימוש נוכחי במעבד</string>
     <string name="force_hw_ui">אלצתי GPU העיבוד</string>
     <string name="force_hw_ui_summary">השתמש בהאצת חומרת 2D ביישומים</string>
-    <string name="force_msaa">כוח 4x MSAA</string>
+    <string name="force_msaa">הספק 4x MSAA</string>
     <string name="force_msaa_summary">אפשר 4x MSAA בOpenGL ES 2.0 אפליקציות</string>
     <string name="show_non_rect_clip">פעולות קליפ Debug שאינו מלבניות</string>
     <string name="track_frame_time">פרופיל GPU טיוח</string>
@@ -2225,7 +2225,7 @@
     <string name="common_settings">הגדרות נפוצות</string>
     <string name="battery_settings">סוללה</string>
     <string name="battery_settings_title">סוללה</string>
-    <string name="power_center">כוח</string>
+    <string name="power_center">הספק</string>
     <string name="battery_indicator_style">סגנון מחוון סוללה</string>
     <string name="power_usage_history">שימוש בסוללה</string>
     <string name="default_usb_mode">סוג חיבור USB כברירת מחדל</string>
