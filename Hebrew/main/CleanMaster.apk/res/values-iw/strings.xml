@@ -77,7 +77,7 @@
   <string name="hints_ad_header_left">"קבצי AD"</string>
   <string name="hints_apk_header_left">"התקנת חבילות "</string>
   <string name="hints_app_uninstall_residual">"לנקות קבצי התקנה שנשארו?"</string>
-  <string name="hints_cache_header_left">"קבצי קאש "</string>
+  <string name="hints_cache_header_left">"קבצי מטמון "</string>
   <string name="hints_cleanfinish">הניקוי הסתיים</string>
   <string name="hints_finish_quick_cleanup">"הסתיים"</string>
   <string name="hints_finish_quick_cleanup_title">"%s אשפה"</string>
@@ -191,7 +191,7 @@
   <string name="toast_uninstall_success">"הסרת התקנה הסתיימה"</string>
   <string name="white_list_ad_header">"קבצי פרסומות %d"</string>
   <string name="white_list_apk_header">"להתקין %d"</string>
-  <string name="white_list_cache_header">"קבצי קאש %d"</string>
+  <string name="white_list_cache_header">"קבצי מטמון %d"</string>
   <string name="white_list_large_file_header">"קבצים גדולים %d"</string>
   <string name="white_list_title">"חריגים"</string>
 </resources>
